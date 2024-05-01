@@ -1,4 +1,4 @@
-This repository is work in progress , it will contain a template to quickly bootstrap go projects
+This repository is a work in progress , it will contain a templates to quickly bootstrap go projects
 
 1. CRUD interface
 2. Database connection: relational and document based databases
